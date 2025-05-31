@@ -1,7 +1,7 @@
 ---
 # Gemini Chat App
 
-A simple and spartan chat application powered by the Google Gemini API, allowing you to have engaging conversations with Gemini models, including multimodal interactions with images.
+##### A simple and spartan chat application powered by the Google Gemini API, allowing you to have engaging conversations with Gemini models, including multimodal interactions with images.
 ---
 
 ## Features
